@@ -16,7 +16,7 @@
     "url": "https://github.com/olegdizus/react-native-sliding-view/issues"
   },
   "homepage": "https://github.com/olegdizus/react-native-sliding-view#readme",
-  "dependencies": {
+  "peer-dependencies": {
     "react": "^15.3.2",
     "react-native": "^0.34.1"
   }
