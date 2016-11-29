@@ -1,4 +1,6 @@
 ## Release Notes
+### 0.1.4
+- fixed heights sorting bugs
 ### 0.1.3
 - fixed moving view over min and max heights
 - fixed too high activating threshold
