@@ -52,8 +52,8 @@ export default class extends Component {
     const { heights } = props
 
     this.oldY = 0
-    this.heights = heights.sort(orderAsc)
     this.prevHeight = heights[0]
+    this.heights = heights.sort(orderAsc)
 
     this.state.containerHeight.setValue(this.prevHeight)
   }

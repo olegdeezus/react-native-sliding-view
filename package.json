@@ -1,6 +1,6 @@
 {
   "name": "react-native-sliding-view",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Sliding view component for React Native",
   "main": "index.js",
   "scripts": {
