@@ -60,8 +60,6 @@ export default class extends Component {
 
   componentWillReceiveProps ({ heights }) {
     if (this.props.heights.toString() !== heights.toString()) {
-      this.heights = heights.sort(orderAsc)
-
       this.animate(this.heights[0])
     }
   }
