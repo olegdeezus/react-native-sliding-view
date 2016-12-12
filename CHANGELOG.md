@@ -1,4 +1,11 @@
 ## Release Notes
+
+### 0.1.7
+- fixed dependencies bug
+
+### 0.1.6
+- fixed error with receiving new heights
+
 ### 0.1.4
 - fixed heights sorting bugs
 
