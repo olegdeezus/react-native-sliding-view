@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/olegdizus/react-native-sliding-view#readme",
   "peer-dependencies": {
-    "react": "^15.3.2",
-    "react-native": "^0.34.1"
+    "react": "^15.4.1",
+    "react-native": "^0.39.2"
   }
 }
